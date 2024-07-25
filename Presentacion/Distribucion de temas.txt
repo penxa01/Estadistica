@@ -1,0 +1,7 @@
+1. Analisis exploratorio (octa)
+2. Probabilidad (octa)
+3. estimacion puntual (nico)
+4. Intervalos de confianza (juan)
+5. test de hipotesis (nico)
+6. Pruebas no parametricas(juan)
+7. Regresion lineal (todos) 
